@@ -1,1 +1,2 @@
-# sa_ldap_ms
+# arqsoft-ldap
+LDAP for the Software Architecture course.
